@@ -1,0 +1,4 @@
+C:\Deepa_All_Data\Resume\.Net_Unidata_Projects\UD_MultiValue_WinFormApp\WindowsFormsApp1\obj\Debug\UD_MV_DataHandler.csproj.AssemblyReference.cache
+C:\Deepa_All_Data\Resume\.Net_Unidata_Projects\UD_MultiValue_WinFormApp\WindowsFormsApp1\obj\Debug\UD_MV_DataHandler.Properties.Resources.resources
+C:\Deepa_All_Data\Resume\.Net_Unidata_Projects\UD_MultiValue_WinFormApp\WindowsFormsApp1\obj\Debug\UD_MV_DataHandler.csproj.GenerateResource.cache
+C:\Deepa_All_Data\Resume\.Net_Unidata_Projects\UD_MultiValue_WinFormApp\WindowsFormsApp1\obj\Debug\UD_MV_DataHandler.csproj.CoreCompileInputs.cache
